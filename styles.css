@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: linear-gradient(135deg, #a8e6cf, #81d4fa); /* Gradient background */
+    background: linear-gradient(160deg, #00CED1, #F8F8FF); /* Gradient background */
 }
 
 /* Container for weather card */
